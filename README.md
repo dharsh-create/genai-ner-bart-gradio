@@ -138,6 +138,8 @@ demo = gr.Interface(fn=ner,
 demo.launch(share=True, server_port=int(os.environ['PORT4']))
 ```
 ## OUTPUT:
+<img width="1158" height="617" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/0393e543-5fe5-4b25-bd7f-ce9235ad71f2" />
+
 
 
 
