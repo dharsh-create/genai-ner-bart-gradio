@@ -139,6 +139,9 @@ demo.launch(share=True, server_port=int(os.environ['PORT4']))
 ```
 ## OUTPUT:
 
+
+
+
 ## RESULT:
 
 A fine-tuned BART model successfully identifies and classifies named entities in text.The NER pipeline efficiently extracts entities such as persons, organizations, and locations.The Gradio interface provides an intuitive platform for users to input text and view the results interactively.overall,the  Development of a Named Entity Recognition (NER) Prototype Using a Fine-Tuned BART Model and Gradio Framework implemented successfully
